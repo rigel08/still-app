@@ -1,0 +1,46 @@
+{
+ "keys390": {
+  "errors": [
+   "Failed to load resource: the server responded with a status of 403 ()"
+  ],
+  "stops": [
+   "Home [ring]",
+   "Discover [ring]",
+   "Community [ring]",
+   "Explore [ring]",
+   "My Space [ring]",
+   "Need support now? [ring]",
+   "Night sky with a moo [ring]",
+   "Numb [ring]",
+   "Lonely [ring]"
+  ],
+  "keyboardMoon": {
+   "moon": 1,
+   "sun": 0,
+   "cutCx": "370",
+   "ac": "#AABBE8"
+  }
+ },
+ "keys1440": {
+  "errors": [
+   "Failed to load resource: the server responded with a status of 403 ()"
+  ],
+  "stops": [
+   "Home [ring]",
+   "Discover [ring]",
+   "Community [ring]",
+   "Explore [ring]",
+   "My Space [ring]",
+   "Need support now? [ring]",
+   "Night sky with a moo [ring]",
+   "Numb [ring]",
+   "Lonely [ring]"
+  ],
+  "keyboardMoon": {
+   "moon": 1,
+   "sun": 0,
+   "cutCx": "370",
+   "ac": "#AABBE8"
+  }
+ }
+}

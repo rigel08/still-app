@@ -1,0 +1,72 @@
+{
+ "mood390": {
+  "errors": [
+   "Failed to load resource: the server responded with a status of 403 ()"
+  ],
+  "before": {
+   "moon": 1,
+   "sun": 0,
+   "cutCx": "326",
+   "ac": "#AABBE8"
+  },
+  "mid": {
+   "moon": 1,
+   "sun": 0,
+   "cutCx": "326",
+   "ac": "#F0C98B"
+  },
+  "sun": {
+   "moon": 0,
+   "sun": 1,
+   "cutCx": "326",
+   "ac": "#F0C98B"
+  },
+  "lonely": {
+   "moon": 0,
+   "sun": 1,
+   "cutCx": "326",
+   "ac": "#A897D5"
+  },
+  "afterTap": {
+   "moon": 0.988048,
+   "sun": 0.0119521,
+   "cutCx": "370",
+   "ac": "#A897D5"
+  }
+ },
+ "mood1440": {
+  "errors": [
+   "Failed to load resource: the server responded with a status of 403 ()"
+  ],
+  "before": {
+   "moon": 1,
+   "sun": 0,
+   "cutCx": "326",
+   "ac": "#AABBE8"
+  },
+  "mid": {
+   "moon": 0.699338,
+   "sun": 0.300662,
+   "cutCx": "326",
+   "ac": "#F0C98B"
+  },
+  "sun": {
+   "moon": 0,
+   "sun": 1,
+   "cutCx": "326",
+   "ac": "#F0C98B"
+  },
+  "lonely": {
+   "moon": 0.946903,
+   "sun": 0.0530965,
+   "cutCx": "326",
+   "ac": "#A897D5"
+  },
+  "afterTap": {
+   "moon": 0.996096,
+   "sun": 0.00390356,
+   "cutCx": "370",
+   "ac": "#A897D5"
+  }
+ }
+}

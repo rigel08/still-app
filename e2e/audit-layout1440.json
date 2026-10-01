@@ -1,0 +1,32 @@
+{
+ "layout1440": {
+  "errors": [
+   "Failed to load resource: the server responded with a status of 403 ()"
+  ],
+  "tabs": {
+   "Home": {
+    "overflowX": false,
+    "mainW": 720,
+    "mainLeft": 420,
+    "nav": "left-rail",
+    "navW": 92,
+    "small": [],
+    "docH": 1531,
+    "lastEl": 1457,
+    "contrast": []
+   },
+   "Discover": {
+    "overflowX": false,
+    "mainW": 720,
+    "mainLeft": 420,
+    "nav": "left-rail",
+    "navW": 92,
+    "small": [],
+    "docH": 1193,
+    "lastEl": 1133,
+    "contrast": []
+   }
+  },
+  "CRASH": "Error: timeout 100s"
+ }
+}
