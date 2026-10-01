@@ -17,7 +17,8 @@ export interface ApiNoteRead { id: number; body: string }
 export interface ApiModNote { id: number; body: string; created_at: string }
 /** status 0 = network failure; `fields` holds per-field messages from 422 responses. Never contains request bodies. */
 export class ApiError extends Error { constructor(public status: number, public detail: string, public fields: Record<string, string> = {}) { super(detail) } }
-const BASE = (import.meta.env.VITE_API_URL as string | undefined) ?? 'http://localhost:8000'
+const BASE = (import.meta.env.VITE_API_URL as string | undefined)
+  ?? (import.meta.env.DEV ? 'http://localhost:8000' : '')
 let onUnauthorized: (() => void) | null = null
 export const setUnauthorizedHandler = (f: (() => void) | null) => { onUnauthorized = f }
 
